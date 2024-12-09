@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "Leadership Experience",
+            "subtitle": "Student Union Government, President",
+            "workType": "Federal Polytechnic, Mubi, Adamawa State",
+            "workDescription": [
+                "Led a team of 12 executive members in planning and executing various initiatives.",
+                "Represented student interests in discussions with Polytechnic administration.",
+                "Organized and managed multiple programs such Students’ Cultural Carnival that positively impacted the student body"
+            ],
+            "dateText": "12/2022 – 10/2023"
+        },
+        {
+            "title": "Committee Membership",
+            "subtitle": "Member, Budget Monitoring Committee",
+            "workType": " Federal Polytechnic, Mubi, Adamawa State",
+            "workDescription": [
+                "Contributed to the review and analysis of the school budget, ensuring alignment with Polytechnic and 2013 Need Assessment goals.",
+                "Participated in budget meetings to provide input on resource allocation and financial priorities."
+            ],
+            "dateText": "12/2022 – 10/2023"
+        },
+        {
+            "title": "Bursar",
+            "subtitle": "Abubakar Isa Ahmadu Primary School, Mubi, Adamawa State",
+            "workType": "Managing Finance",
+            "workDescription": [
+                "Oversaw the disbursement of funds, ensuring compliance with school policies and regulations.",
+                "Handled payroll, invoicing, and financial documentation"
+            ],
+            "dateText": "08/2016 - 11/2018"
+        }
+    ]
+}

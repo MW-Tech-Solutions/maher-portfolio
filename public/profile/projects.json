@@ -1,0 +1,19 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/1.png",
+            "title": "Health Expert System",
+            "bodyText": "- Health Expert System\n -  Based on Natural ingredients.\n - and Islamic Teachings",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "StreamLit"
+            ]
+        }]
+        }
+    

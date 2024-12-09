@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "2019 - 2023",
+            "cardTitle": "HND, Computer Science",
+            "cardSubtitle":"Federal Polytechnic, Mubi",
+            "cardDetailedText": "Distinction"
+          
+        },
+        {
+            "title": "March 2017",
+            "cardTitle": "High School",
+            "cardSubtitle":"Demonstration Secondary School, Federal Polytechnic, Mubi",
+            "cardDetailedText": "Passed"
+        }
+    ]
+}

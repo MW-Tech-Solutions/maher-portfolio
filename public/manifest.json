@@ -1,0 +1,15 @@
+{
+  "short_name": "Muhammad Adamu Garba",
+  "name": "Maher - Portfolio",
+  "icons": [
+    {
+      "src": "images/about/passport_white.jpg",
+      "type": "image/png",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
